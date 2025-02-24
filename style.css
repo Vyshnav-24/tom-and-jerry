@@ -12,6 +12,7 @@ body {
     width: 80%;
     margin: auto;
     overflow: hidden;
+    
 }
 
 /* Header */
@@ -24,9 +25,15 @@ header {
     
     
 }
+
 .container>img{
     width: 200px;
     top: -43px;
+    height: 300px;
+    position: relative;
+    left: 366px
+    
+
 }
 
 header h1 {
